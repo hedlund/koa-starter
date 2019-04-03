@@ -1,6 +1,6 @@
 {
   "include": [
-    "./src/**/*"
+    "./src/server/**/*"
   ],
   "compilerOptions": {
     "module": "commonjs",
